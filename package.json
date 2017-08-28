@@ -1,0 +1,10 @@
+{
+  "name": "jekyll_publisher",
+  "version": "1.0.0",
+  "main": "auto.js",
+  "author": "overkazaf",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
